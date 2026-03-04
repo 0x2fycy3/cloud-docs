@@ -37,4 +37,4 @@ Navigate to the relevant platform directory under `docs/` to access specific tec
 
 ## Maintenance
 
-Documentation is updated on-demand as new cloud operations and procedures are executed for me personally, ensuring accuracy and completeness.Type:** Technical Documentation
+Documentation is updated on-demand as new cloud operations and procedures are executed for me personally, ensuring accuracy and completeness.
